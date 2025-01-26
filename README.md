@@ -1,4 +1,4 @@
-![kodluyoruz](C:\Users\alper\OneDrive\Masaüstü\Ekran Alıntısı.PNG)
+
 
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçeriside bir adet README dosyası, bir adet de index.html barındırıyor.
