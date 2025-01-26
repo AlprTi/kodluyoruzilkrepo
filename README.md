@@ -1,4 +1,5 @@
-![](https://drive.google.com/file/d/1phVATlMJjeUFE6RokH0A0h0hrG_eMeU9/view?usp=drive_link)
+![kodluyoruz](C:\Users\alper\OneDrive\Masaüstü\Ekran Alıntısı.PNG)
+
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçeriside bir adet README dosyası, bir adet de index.html barındırıyor.
 
